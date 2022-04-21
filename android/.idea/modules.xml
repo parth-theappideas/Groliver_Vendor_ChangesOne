@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Vendor.iml" filepath="$PROJECT_DIR$/.idea/modules/Vendor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Vendor.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Vendor.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-637251389/Vendor.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-637251389/Vendor.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1338991624/Vendor.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1338991624/Vendor.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-277893413/Vendor.react-native-google-signin_google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/-277893413/Vendor.react-native-google-signin_google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1928584690/Vendor.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1928584690/Vendor.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1773615037/Vendor.react-native-pager-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1773615037/Vendor.react-native-pager-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-212066963/Vendor.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-212066963/Vendor.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2014288092/Vendor.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-2014288092/Vendor.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1924360607/Vendor.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1924360607/Vendor.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1809664953/Vendor.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1809664953/Vendor.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-303317282/Vendor.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-303317282/Vendor.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
